@@ -14,7 +14,7 @@ SecureMultiGate is a secure authentication system designed to provide robust sec
 
 To install SecureMultiGate, follow these steps:
 
-1. **Clone the Repository:** `git clone https://github.com/your-username/SecureMultiGate.git`
+1. **Clone the Repository:** `git clone https://github.com/geoseiden/SecureMultiGate.git`
 2. **Navigate to the Project Directory:** `cd SecureMultiGate`
 3. **Install Dependencies:** `pip install -r requirements.txt`
 
@@ -22,7 +22,3 @@ To install SecureMultiGate, follow these steps:
 
 1. **Start the Server:** Run `python server.py` to start the server application.
 2. **Run the Client Application:** Execute `python client.py` to run the client application and initiate the authentication process.
-
-## License
-
-SecureMultiGate is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software under the terms of the license.
