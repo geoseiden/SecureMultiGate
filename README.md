@@ -23,10 +23,6 @@ To install SecureMultiGate, follow these steps:
 1. **Start the Server:** Run `python server.py` to start the server application.
 2. **Run the Client Application:** Execute `python client.py` to run the client application and initiate the authentication process.
 
-## Contributing
-
-Contributions to SecureMultiGate are welcome! If you would like to contribute, please fork the repository, make your enhancements, and submit a pull request. Be sure to follow the contribution guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
 ## License
 
 SecureMultiGate is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software under the terms of the license.
